@@ -50,7 +50,7 @@ ${wait}
                                     mediaUrl: inputs,
                                     renderLargerThumbnail: true,
                                     showAdAttribution: true,
-                                    sourceId: "B O B I Z A",
+                                    sourceId: "3 O M A R",
                                     sourceType: "PDF",
                                     previewType: "PDF",
                                     sourceUrl: inputs,
